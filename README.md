@@ -1,5 +1,6 @@
 # guessgame😊
->Juego de adivinar número:
+>Juego de adivinar número
+
 1.Crear el número aleatorio.
 1.Mostrar pregunta en la pantalla ¿Introduce número?.
 1.Leer respuesta
