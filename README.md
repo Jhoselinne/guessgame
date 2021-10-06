@@ -10,6 +10,7 @@
 7. Repetir pasos del 1 al 6 hasta que el usuario adivine.
 
 >Ejemplo 2: La máquina adivina mi número.
+
 -Pensar en un numero
 -La maquina nos indica un numero
 -Si es correcto felicitamos

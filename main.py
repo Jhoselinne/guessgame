@@ -13,6 +13,31 @@ def humanguess():
         else:
             print(f"El numero es menor {numero}")
 
-humanguess()
+#humanguess()
+
+def computerguess():
+    number=random.randrange(0,1000)
+    bandera=False
+    
+    while(bandera==False):
+        print(number)
+        print("Este es tu numero")
+        opc=input("Si | No:  ").lower()
+        if(opc=="no"):
+            print("Tu numero es mayor o menor al mio")
+            opc2=input("Mayor | Menor: ").lower()
+            if(opc2 == "menor"):
+                newnumber=random.randrange(0,number)
+                number=newnumber
+            else: 
+                newnumber=random.randrange(number,1000)
+                number=newnumber
+        else:
+            bandera= True
+computerguess()
+
+
+
+
     
 
