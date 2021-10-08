@@ -1,5 +1,5 @@
 # guessgame😊
->Ejemplo 1: Yo adivino el número de la máquina.
+> Ejemplo 1: Yo adivino el número de la máquina.
 
 1. Crear el número aleatorio.
 2. Mostrar pregunta en la pantalla ¿Introduce número?.
@@ -9,11 +9,11 @@
 6. Mostrar resultado si es verdadero o falso
 7. Repetir pasos del 1 al 6 hasta que el usuario adivine.
 
->Ejemplo 2: La máquina adivina mi número.
+> Ejemplo 2: La máquina adivina mi número.
 
--Pensar en un numero
--La maquina nos indica un numero
--Si es correcto felicitamos
--Si es incorrecto le indicamos si es menor o mayor
--Si el numero es mayor hacemos un random partiendo del numero indicado
--Si el numero es menor se genera un random con el numero como tope
+- Pensar en un numero
+- La maquina nos indica un numero
+- Si es correcto felicitamos
+- Si es incorrecto le indicamos si es menor o mayor
+- Si el numero es mayor hacemos un random partiendo del numero indicado
+- Si el numero es menor se genera un random con el numero como tope
